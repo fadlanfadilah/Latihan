@@ -1,0 +1,21 @@
+.navbar-brand{
+	font-family: Brush Script MT;
+	font-size: 30px;
+}
+
+.jumbotron {
+	padding-top: 8rem;
+	background-color: #e2edff;
+}
+
+#gallery{
+	background-color: #e2edff;
+}
+
+footer p a {
+	text-decoration: none;
+}
+
+section{
+	padding-top: 5rem;
+}
